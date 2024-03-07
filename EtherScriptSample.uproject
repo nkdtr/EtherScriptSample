@@ -10,6 +10,11 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "EtherScript",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9ef8909530204528b47ba5ab1ce3b3e5"
 		}
 	]
 }
